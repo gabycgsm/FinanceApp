@@ -3,4 +3,3 @@ scikit-learn==1.6.1
 numpy
 pandas
 joblib==1.6.0
-ploty
